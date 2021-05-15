@@ -1,6 +1,6 @@
 # 📚Data academy📚
 
-##¡Hola!
+## ¡Hola!
 Mi nombre es César y me da gusto de que hayas llegado hasta aquí. Este es mi repositorio para el reto Data Academy, aquí están los archivos de los mini retos o activiades semanales que se realicé a lo largo del reto.
 
 ### En qué consiste Data Academy
