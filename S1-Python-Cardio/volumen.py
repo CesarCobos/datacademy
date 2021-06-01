@@ -112,10 +112,6 @@ Bienvenido a tu programa para calcular volúmnes.
 1.- Cilindro
 2.- Cono
 3.- Esfera
-4.-
-5.-
-6.-
-7.-
 
 """)
 
