@@ -20,7 +20,7 @@ def run(): #Inicializando programa
 #Pantalla de bienvenida
         print(""" 
 ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀
-▀   Bienvenid@ a este fántastico programa para calcular el área de tu triángulo   ▀
+▀   Bienvenid@ a este fantástico programa para calcular el área de tu triángulo   ▀
 ▀                                                                                 ▀
 ▀   Este programa te ayudará a conocer el área de cualquier triángulo,            ▀
 ▀   además de saber el tipo de triángulo que tienes, si es Equilatero,            ▀
